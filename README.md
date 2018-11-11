@@ -1,5 +1,3 @@
-# ez.nlog.telegram
-
 Ez.NLog.Telegram
 ==========
 An NLog target for Telegram
