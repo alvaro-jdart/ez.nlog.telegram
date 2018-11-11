@@ -20,7 +20,7 @@ Usage
     <target xsi:type="Telegram"
             name="Telegram"
 	    layout="${level:uppercase=true}|${message} ${exception}"
-            botToken ="xxx"
+            botToken="xxx"
             chatId="xxx" />
   </targets>
 
