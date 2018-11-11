@@ -3,5 +3,5 @@
 ################################################################################
 
 /.vs/Ez.NLog.Telegram
-/bin
-/obj
+/Ez.NLog.Telegram/bin
+/Ez.NLog.Telegram/obj
